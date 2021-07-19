@@ -11,8 +11,7 @@ int main (){
     bool d;   
     cout<<"Size of boolean "<<sizeof(d)<<endl;    
     long int li;
-    cout<<"Size of longint "<<sizeof(li)<<endl; 
-    cout<<"Size of boolean "<<sizeof(d)<<endl;    
+    cout<<"Size of longint "<<sizeof(li)<<endl;    
     long long int lli;
     cout<<"Size of longlongint "<<sizeof(lli)<<endl; 
     short int si;
