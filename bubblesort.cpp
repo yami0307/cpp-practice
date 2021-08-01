@@ -1,6 +1,7 @@
 //Bubble-sort
 //Logic : Repeatedly swap two adjacent elements if they are in wrong order.
 //n elements require (n-1) number of iterations
+//Time Complexity : O(n^2)
 
 #include<iostream>
 using namespace std;

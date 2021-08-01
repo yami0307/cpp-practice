@@ -2,6 +2,7 @@
 //Input : array size and elements
 //Output : an array osrted in ascending order
 //Logic : Find the minuimum value in the "unsorted" array and swap it with the first element of the "unsorted" array
+//Time Complexity : O(n^2)
 
 #include<iostream>
 using namespace std;

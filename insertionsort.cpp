@@ -1,5 +1,6 @@
 //Insertion sort
 //Logic : Insert an element from "unsorted" array to its correct position in sorted array.
+//Time Complexity : O(n^2)
 
 #include<iostream>
 using namespace std;
